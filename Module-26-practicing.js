@@ -36,3 +36,9 @@ practiced(5, 2); // Output: 7
 
 // =======================================================================
 // 📝 Exercise 4: Guest system
+function great(name = "Guest") {
+  console.log(`Hello ${name}`);
+}
+great(); // Output: Hello guest;
+
+// =======================================================================
