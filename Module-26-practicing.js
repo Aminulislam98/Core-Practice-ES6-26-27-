@@ -46,7 +46,7 @@
 // 📝 Exercise 5: Dynamic profile
 
 // let person = {
-//   name: "aminur",
+//   name: "aminul",
 //   age: 22,
 //   city: "Sunamganj",
 // };
@@ -61,7 +61,18 @@
 
 // 📝 Exercise 7: Simple arrow
 
-let addition = (num, num1) => {
-  console.log(num + num1);
-};
-addition(23, 8);
+// let addition = (num, num1) => {
+//   console.log(num + num1);
+// };
+// addition(23, 8);
+
+// =======================================================================
+// 📝 Exercise 8: Even/Odd checker
+// let checkEven = (num) => {
+//   if (num % 2 === 0) {
+//     return console.log(`${num} is a even Number`);
+//   }
+//   return console.log(`${num} is odd number`);
+// };
+// checkEven(5);
+// checkEven(6);
