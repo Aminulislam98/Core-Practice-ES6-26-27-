@@ -2,7 +2,7 @@
 
 🔹 26-1: var, let, const
 
-📝 Exercise 1: Block Scope পরীক্ষা
+📝 Exercise 1: Block Scope পরীক্ষা √
 
 একটা {} block তৈরি করো।
 ভিতরে var, let, const দিয়ে তিনটা variable declare করো।
@@ -14,7 +14,7 @@
 
 🎯 লক্ষ্য: block scope কীভাবে কাজ করে সেটা বোঝা।
 
-📝 Exercise 2: const object behaviour
+📝 Exercise 2: const object behaviour √
 
 const দিয়ে একটা object বানাও।
 তারপর:

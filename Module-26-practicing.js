@@ -23,3 +23,16 @@ console.log(person);
 //   profession: "Student",
 // };
 // when we declared variable with const then it will not be reassigned: because this is constant binding which does not changed
+
+// ======================================================================
+// 📝 Exercise 3: Default value test
+function practiced(num, num1 = 10) {
+  console.log(num + num1);
+}
+practiced(5); // Output: 15
+practiced(5, 2); // Output: 7
+
+// when we give default param , if we call with no param, js automatic give default value:
+
+// =======================================================================
+// 📝 Exercise 4: Guest system
