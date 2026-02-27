@@ -10,5 +10,16 @@ console.log(practice);
 // console.log(practice1);
 // console.log(practice2);
 
-// ==============================
+// ======================================================================
 // 📝 Exercise 2: const object behaviour
+const person = {
+  name: "Aminul islam",
+};
+person.name = "marjiya";
+person.age = 24;
+console.log(person);
+
+// person = {
+//   profession: "Student",
+// };
+// when we declared variable with const then it will not be reassigned: because this is constant binding which does not changed
