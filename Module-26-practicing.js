@@ -1,23 +1,23 @@
 // 🔹 26-1: var, let, const
 // 📝 Exercise 1: Block Scope পরীক্ষা
 {
-  var practice = "Module";
-  let practice1 = "Module1";
-  const practice2 = "Module2";
+  //   var practice = "Module";
+  //   let practice1 = "Module1";
+  //   const practice2 = "Module2";
   //   let and const is blocked scoped once we declared inside {} we will not get access! if we declared in global scope then we get access even we get access form {} because global scope goes  inner scope!
 }
-console.log(practice);
+// console.log(practice);
 // console.log(practice1);
 // console.log(practice2);
 
 // ======================================================================
 // 📝 Exercise 2: const object behaviour
-const person = {
-  name: "Aminul islam",
-};
-person.name = "marjiya";
-person.age = 24;
-console.log(person);
+// const person = {
+//   name: "Aminul islam",
+// };
+// person.name = "marjiya";
+// person.age = 24;
+// console.log(person);
 
 // person = {
 //   profession: "Student",
@@ -26,19 +26,32 @@ console.log(person);
 
 // ======================================================================
 // 📝 Exercise 3: Default value test
-function practiced(num, num1 = 10) {
-  console.log(num + num1);
-}
-practiced(5); // Output: 15
-practiced(5, 2); // Output: 7
+// function practiced(num, num1 = 10) {
+//   console.log(num + num1);
+// }
+// practiced(5);  Output: 15
+// practiced(5, 2);  Output: 7
 
 // when we give default param , if we call with no param, js automatic give default value:
 
 // =======================================================================
 // 📝 Exercise 4: Guest system
-function great(name = "Guest") {
-  console.log(`Hello ${name}`);
-}
-great(); // Output: Hello guest;
+// function great(name = "Guest") {
+//   console.log(`Hello ${name}`);
+// }
+// great(); // Output: Hello guest;
 
 // =======================================================================
+// 🔹 26-3: Template String
+// 📝 Exercise 5: Dynamic profile
+
+let person = {
+  name: "aminur",
+  age: 22,
+  city: "Sunamganj",
+};
+console.log(`
+    This is ${person.name},
+    I'm ${person.age} years old,
+    my home town is located in ${person.city}
+    `);
