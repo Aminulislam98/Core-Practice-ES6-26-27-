@@ -15,7 +15,7 @@
 // const person = {
 //   name: "Aminul islam",
 // };
-// person.name = "marjiya";
+// person.name = "mar";
 // person.age = 24;
 // console.log(person);
 
@@ -45,13 +45,23 @@
 // 🔹 26-3: Template String
 // 📝 Exercise 5: Dynamic profile
 
-let person = {
-  name: "aminur",
-  age: 22,
-  city: "Sunamganj",
+// let person = {
+//   name: "aminur",
+//   age: 22,
+//   city: "Sunamganj",
+// };
+// console.log(`
+//     This is ${person.name},
+//     I'm ${person.age} years old,
+//     my home town is located in ${person.city}
+//     `);
+
+// =======================================================================
+// 🔹 26-4: Arrow Function
+
+// 📝 Exercise 7: Simple arrow
+
+let addition = (num, num1) => {
+  console.log(num + num1);
 };
-console.log(`
-    This is ${person.name},
-    I'm ${person.age} years old,
-    my home town is located in ${person.city}
-    `);
+addition(23, 8);
