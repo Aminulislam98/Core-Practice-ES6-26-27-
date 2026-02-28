@@ -114,13 +114,15 @@ map ব্যবহার করে সব number double করে নতুন 
 
 
 
-📝 Exercise 12: Copy object
+📝 Exercise 12: Copy object √
 
 একটা object copy করো এবং নতুন property যোগ করো।
 
 🎯 লক্ষ্য: immutable practice বোঝা।
 
-📝 Exercise 13: Maximum number
+
+
+📝 Exercise 13: Maximum number √
 
 একটা number array থেকে maximum value বের করো spread ব্যবহার করে।
 

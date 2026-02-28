@@ -108,3 +108,9 @@
 // console.log("main object", obj);
 // console.log("copy object", copyObj);
 // console.log("extended object", extendedObj);
+
+// ==========================================================
+// 📝 Exercise 13: Maximum number
+// let num = [2, 4, 6, 8, 9, 23];
+// let maxNum = Math.max(...num);
+// console.log(maxNum);
