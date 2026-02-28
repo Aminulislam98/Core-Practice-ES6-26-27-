@@ -154,9 +154,11 @@ Object destructuring করে একটা property অন্য নামে r
 
 🎯 লক্ষ্য: variable naming control করা।
 
-🔹 26-7: Object Methods
 
-📝 Exercise 18: Keys বের করা
+
+🔹 26-7: Object Methods √
+
+📝 Exercise 18: Keys বের করা √
 
 Object থেকে সব key বের করো।
 

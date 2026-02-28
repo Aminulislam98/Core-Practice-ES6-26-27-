@@ -142,3 +142,12 @@
 // let alias = { name: "aminur", age: 23, pro: "developer" };
 // let { name: fullName } = alias;
 // console.log(fullName);
+
+// ==========================================================
+// 🔹 26-7: Object Methods
+// 📝 Exercise 18: Keys বের করা
+// let objMethod = { name: "aminur", age: 23, profession: "developer" };
+// let key = Object.keys(objMethod);
+// console.log("all keys: ", key);
+// let values = Object.values(objMethod);
+// console.log("all values: ", values);
