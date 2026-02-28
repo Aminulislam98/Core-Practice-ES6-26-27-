@@ -259,3 +259,10 @@
 // for (const ar of arr) {
 //   console.log(ar);
 // }
+
+// ===========================================================
+// 📝 Exercise 28: for…in
+// let arr = { name: "aminur", age: 12 };
+// for (const ar in arr) {
+//   console.log(arr[ar]);
+// }
