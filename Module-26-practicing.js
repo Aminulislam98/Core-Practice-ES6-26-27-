@@ -251,3 +251,11 @@
 //   },
 // };
 // console.log(obj.profession["remote job"]);
+
+// ===========================================================
+// 🔹 26-9: Looping
+// 📝 Exercise 27: for…of
+// let arr = [3, 5, 7, 8];
+// for (const ar of arr) {
+//   console.log(ar);
+// }
