@@ -114,3 +114,12 @@
 // let num = [2, 4, 6, 8, 9, 23];
 // let maxNum = Math.max(...num);
 // console.log(maxNum);
+
+// ==========================================================
+// 🔹 26-6: Destructuring
+// 📝 Exercise 14: Array destructuring
+// let fruits = ["apple", "banana", "mango", "pineapple"];
+// let [firstFruit, secondFruit, thirdFruit] = fruits;
+// console.log("this is first index: ", firstFruit);
+// console.log("this is second index: ", secondFruit);
+// console.log("this is third index: ", thirdFruit);

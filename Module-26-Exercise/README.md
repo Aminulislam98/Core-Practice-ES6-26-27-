@@ -130,7 +130,7 @@ map ব্যবহার করে সব number double করে নতুন 
 
 🔹 26-6: Destructuring
 
-📝 Exercise 14: Array destructuring
+📝 Exercise 14: Array destructuring √
 
 একটা array থেকে প্রথম দুইটা value আলাদা variable এ রাখো।
 
