@@ -117,7 +117,7 @@ Loose comparison dangerous হতে পারে।
 
 
 
-🔹 27-4: Scope & Hoisting
+🔹 27-4: Scope & Hoisting √
 
 🧠 Topic
 

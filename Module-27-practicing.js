@@ -34,3 +34,13 @@
 // console.log(5 === "5");
 // console.log(0 == false);
 // console.log(null == undefined);
+
+// ==================================================
+// 🔹 27-4: Scope & Hoisting
+// console.log(global);
+// let global = "aminur";
+// {
+//   let name = "aminur";
+// }
+// console.log(age);
+// var age = 23;
