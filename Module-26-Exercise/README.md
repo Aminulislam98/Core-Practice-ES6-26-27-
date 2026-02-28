@@ -193,7 +193,7 @@ Object.seal ব্যবহার করে object seal করো।
 
 🔹 26-8: Nested + Optional Chaining
 
-📝 Exercise 24: Nested object
+📝 Exercise 24: Nested object √
 
 একটা ২ বা ৩ level nested object বানাও।
 Deep value access করো।

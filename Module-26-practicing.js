@@ -186,3 +186,26 @@
 // obj.pro = "developer";
 // obj.name = "Islam";
 // console.log(obj);
+// ==========================================================
+// 🔹 26-8: Nested + Optional Chaining
+// 📝 Exercise 24: Nested object
+// let obj = {
+//   name: "aminur",
+//   age: 23,
+//   profession: {
+//     job: "developer",
+//     remote: "freelancer",
+//   },
+//   address: {
+//     street: "89 stafford road",
+//     road: "wallington",
+//     city: "london",
+//     phone: {
+//       telephone: "07440302426",
+//       email: "aminurrohman98@gamil.com",
+//     },
+//   },
+// };
+console.log(obj.address.phone.email);
+// output:aminurrohman98@gamil.com
+// console.log(obj.profession.remote); //output:freelancer
