@@ -229,6 +229,8 @@ Optional chaining ব্যবহার করে এমন property access ক�
 
 Object.entries ব্যবহার করে object loop করো।
 
+
+
 🔥 Final Challenge
 
 একটা products array বানাও (name, price, category)।

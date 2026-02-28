@@ -273,3 +273,20 @@
 // for (const [key, value] of Object.entries(arr)) {
 //   console.log(key, value);
 // }
+
+// ===========================================================
+// 🔥 Final Challenge
+// const products = [
+//   { name: "Mouse", price: 15, category: "Accessories" },
+//   { name: "Keyboard", price: 35, category: "Accessories" },
+//   { name: "Monitor", price: 180, category: "Display" },
+// ];
+// let discounted = products.map((p) => {
+//   return { ...p, price: p.price - 5 };
+// });
+// //
+
+// for (const p of discounted) {
+//   const { name: productName, price, category } = p;
+//   console.log(`Final: ${productName} | $${price} | Category: ${category}`);
+// }
