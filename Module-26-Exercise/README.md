@@ -215,17 +215,17 @@ Optional chaining ব্যবহার করে এমন property access ক�
 🎯 লক্ষ্য: bracket notation কখন দরকার হয় বোঝা।
 
 
-🔹 26-9: Looping
+🔹 26-9: Looping √
 
 📝 Exercise 27: for…of
 
 একটা array loop করো।
 
-📝 Exercise 28: for…in
+📝 Exercise 28: for…in √
 
 একটা object loop করো এবং key + value print করো।
 
-📝 Exercise 29: entries loop
+📝 Exercise 29: entries loop arr √
 
 Object.entries ব্যবহার করে object loop করো।
 

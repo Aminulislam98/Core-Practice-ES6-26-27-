@@ -266,3 +266,10 @@
 // for (const ar in arr) {
 //   console.log(arr[ar]);
 // }
+
+// ===========================================================
+// 📝 Exercise 29: entries loop
+// let arr = { name: "aminur", age: 23 };
+// for (const [key, value] of Object.entries(arr)) {
+//   console.log(key, value);
+// }
