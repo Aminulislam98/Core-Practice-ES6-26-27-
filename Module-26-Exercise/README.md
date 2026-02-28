@@ -89,7 +89,7 @@ Backtick ব্যবহার করে নিজের একটা ছোট 
 
 
 
-📝 Exercise 9: Map practice
+📝 Exercise 9: Map practice √
 একটা number array নাও।
 map ব্যবহার করে সব number double করে নতুন array বানাও।
 

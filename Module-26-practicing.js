@@ -85,3 +85,11 @@
 // });
 // console.log(number);
 // console.log(doubled);
+
+// ==========================================================
+// 🔹 26-5: Spread Operator
+// 📝 Exercise 10: Array merge
+// let array = [2, 3, 4, 5, 6];
+// let array1 = [2, 3, 4, 5, 6];
+// let secondArray = [...array, ...array1];
+// console.log("Ex10 merged: " + secondArray);
