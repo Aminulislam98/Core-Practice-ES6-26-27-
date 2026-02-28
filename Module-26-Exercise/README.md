@@ -142,7 +142,7 @@ map ব্যবহার করে সব number double করে নতুন 
 
 🎯 লক্ষ্য: ...rest বোঝা।
 
-📝 Exercise 16: Object destructuring
+📝 Exercise 16: Object destructuring √
 
 একটা object থেকে name এবং age আলাদা variable এ রাখো।
 

@@ -130,3 +130,9 @@
 // let [firstValue, ...rest] = arr;
 // console.log(firstValue);
 // console.log(rest);
+
+// ==========================================================
+// 📝 Exercise 16: Object destructuring
+let destructuring = { name: "aminul islam", age: 23, pro: "developer" };
+let { name: fullName } = destructuring;
+console.log("Name is : ", fullName);
