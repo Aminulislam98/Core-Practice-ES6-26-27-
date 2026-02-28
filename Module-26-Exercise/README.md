@@ -172,7 +172,7 @@ Object থেকে সব value বের করো।
 
 Object থেকে key + value pair বের করো।
 
-📝 Exercise 21: Delete property
+📝 Exercise 21: Delete property √
 
 একটা property delete করো এবং object print করো।
 

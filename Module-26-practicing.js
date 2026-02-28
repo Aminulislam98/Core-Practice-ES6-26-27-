@@ -167,3 +167,9 @@
 // for (const [key, value] of Object.entries(en)) {
 //   console.log(key, value);
 // }
+
+// ==========================================================
+// 📝 Exercise 21: Delete property
+let obj = { name: "aminur", age: 23, pro: "developer" };
+delete obj.name;
+console.log(obj);
