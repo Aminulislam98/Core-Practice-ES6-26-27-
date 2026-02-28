@@ -154,6 +154,16 @@
 
 // ==========================================================
 // 📝 Exercise 19: Values বের করা
-let objMethod = { name: "aminur", age: 23, pro: "developer" };
-let values = Object.values(objMethod);
-console.log(values);
+// let objMethod = { name: "aminur", age: 23, pro: "developer" };
+// let values = Object.values(objMethod);
+// console.log(values);
+
+// ==========================================================
+// 📝 Exercise 20: Entries বের করা
+// let en = { name: "aminur", age: 23, pro: "developer" };
+// for (const [key, value] of Object.entries(en)) {
+//   console.log(key, value);
+// }
+// for (const [key, value] of Object.entries(en)) {
+//   console.log(key, value);
+// }

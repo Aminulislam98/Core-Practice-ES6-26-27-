@@ -168,7 +168,7 @@ Object থেকে সব key বের করো।
 
 Object থেকে সব value বের করো।
 
-📝 Exercise 20: Entries বের করা
+📝 Exercise 20: Entries বের করা √
 
 Object থেকে key + value pair বের করো।
 
