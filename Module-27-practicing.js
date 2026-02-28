@@ -27,3 +27,10 @@
 // checkTruthyFalsy("", "[]");
 // checkTruthyFalsy({}, "{}");
 // checkTruthyFalsy(null, "null");
+
+// ==================================================
+// 🔹 27-3: == vs ===
+// console.log(5 == "5");
+// console.log(5 === "5");
+// console.log(0 == false);
+// console.log(null == undefined);
