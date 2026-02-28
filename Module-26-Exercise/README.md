@@ -95,9 +95,10 @@ map ব্যবহার করে সব number double করে নতুন 
 
 🎯 লক্ষ্য: arrow function inside map বোঝা।
 
-🔹 26-5: Spread Operator
 
-📝 Exercise 10: Array merge
+🔹 26-5: Spread Operator √
+
+📝 Exercise 10: Array merge √
 
 দুইটা array merge করো spread ব্যবহার করে।
 

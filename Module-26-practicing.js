@@ -78,7 +78,6 @@
 // checkEven(6);
 // ==========================================================
 // 📝 Exercise 9: Map practice
-
 // let number = [2, 4, 5, 6, 7, 8];
 // let doubled = number.map((num) => {
 //   return num * 2;
@@ -93,3 +92,10 @@
 // let array1 = [2, 3, 4, 5, 6];
 // let secondArray = [...array, ...array1];
 // console.log("Ex10 merged: " + secondArray);
+
+// ==========================================================
+// 📝 Exercise 11: Copy array
+let arr = [2, 3, 4, 6, 6];
+let copyArr = [...arr, 9, 8, 7, 6];
+console.log(arr);
+console.log(copyArr);
