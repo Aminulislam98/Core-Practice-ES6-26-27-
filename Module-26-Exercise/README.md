@@ -28,7 +28,7 @@ const দিয়ে একটা object বানাও।
 
 🔹 26-2: Default Parameter
 
-📝 Exercise 3: Default value test
+📝 Exercise 3: Default value test √
 
 একটা function বানাও যেটা দুইটা parameter নিবে।
 দ্বিতীয় parameter না দিলে default value হবে 10।
@@ -39,7 +39,7 @@ const দিয়ে একটা object বানাও।
 
 🎯 লক্ষ্য: parameter না দিলে default কিভাবে কাজ করে সেটা বোঝা।
 
-📝 Exercise 4: Guest system
+📝 Exercise 4: Guest system √
 
 একটা greet function বানাও।
 যদি name না দাও তাহলে output হবে:
@@ -50,7 +50,7 @@ Hello Guest
 
 🔹 26-3: Template String
 
-📝 Exercise 5: Dynamic profile
+📝 Exercise 5: Dynamic profile √
 
 একটা object বানাও:
 • name
@@ -62,7 +62,7 @@ Template string ব্যবহার করে ৩ লাইনের message �
 🎯 লক্ষ্য: ${} দিয়ে dynamic value বসানো শিখা।
 
 
-📝 Exercise 6: Multiline message
+📝 Exercise 6: Multiline message √
 
 Backtick ব্যবহার করে নিজের একটা ছোট profile লিখো —
 এক লাইনে না, তিন লাইনে।
@@ -73,20 +73,23 @@ Backtick ব্যবহার করে নিজের একটা ছোট 
 
 🔹 26-4: Arrow Function
 
-📝 Exercise 7: Simple arrow
+📝 Exercise 7: Simple arrow √
 
 একটা arrow function বানাও যা দুইটা সংখ্যা যোগ করবে।
 
 🎯 লক্ষ্য: function keyword ছাড়া arrow syntax ব্যবহার শেখা।
 
-📝 Exercise 8: Even/Odd checker
+
+
+📝 Exercise 8: Even/Odd checker √
 
 একটা arrow function বানাও যা একটা সংখ্যা নিয়ে check করবে সেটা even না odd।
 
 🎯 লক্ষ্য: arrow function + condition একসাথে ব্যবহার করা।
 
-📝 Exercise 9: Map practice
 
+
+📝 Exercise 9: Map practice
 একটা number array নাও।
 map ব্যবহার করে সব number double করে নতুন array বানাও।
 

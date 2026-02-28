@@ -10,8 +10,8 @@
 // console.log(practice1);
 // console.log(practice2);
 
-// ======================================================================
-// 📝 Exercise 2: const object behaviour
+// =============================================================
+// 📝 Exercise 2: const object behavior
 // const person = {
 //   name: "Aminul islam",
 // };
@@ -24,7 +24,7 @@
 // };
 // when we declared variable with const then it will not be reassigned: because this is constant binding which does not changed
 
-// ======================================================================
+// ============================================================
 // 📝 Exercise 3: Default value test
 // function practiced(num, num1 = 10) {
 //   console.log(num + num1);
@@ -34,14 +34,14 @@
 
 // when we give default param , if we call with no param, js automatic give default value:
 
-// =======================================================================
+// ============================================================
 // 📝 Exercise 4: Guest system
 // function great(name = "Guest") {
 //   console.log(`Hello ${name}`);
 // }
 // great(); // Output: Hello guest;
 
-// =======================================================================
+// ============================================================
 // 🔹 26-3: Template String
 // 📝 Exercise 5: Dynamic profile
 
@@ -56,7 +56,7 @@
 //     my home town is located in ${person.city}
 //     `);
 
-// =======================================================================
+// ==========================================================
 // 🔹 26-4: Arrow Function
 
 // 📝 Exercise 7: Simple arrow
@@ -66,7 +66,7 @@
 // };
 // addition(23, 8);
 
-// =======================================================================
+// ==========================================================
 // 📝 Exercise 8: Even/Odd checker
 // let checkEven = (num) => {
 //   if (num % 2 === 0) {
@@ -76,3 +76,12 @@
 // };
 // checkEven(5);
 // checkEven(6);
+// ==========================================================
+// 📝 Exercise 9: Map practice
+
+// let number = [2, 4, 5, 6, 7, 8];
+// let doubled = number.map((num) => {
+//   return num * 2;
+// });
+// console.log(number);
+// console.log(doubled);
