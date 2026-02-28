@@ -12,3 +12,18 @@
 // let age = 23;
 // console.log(name == age);
 // console.log(name === age);
+
+// ==================================================
+// 🔹 27-2: Truthy & Falsy
+// function checkTruthyFalsy(value, label) {
+//   if (value) {
+//     console.log(`27-2 ${label}: true ✅`);
+//   } else {
+//     console.log(`27-2 ${label}: False: ❌`);
+//   }
+// }
+// checkTruthyFalsy(0, "0");
+// checkTruthyFalsy(2, "2");
+// checkTruthyFalsy("", "[]");
+// checkTruthyFalsy({}, "{}");
+// checkTruthyFalsy(null, "null");

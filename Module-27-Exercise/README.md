@@ -61,7 +61,7 @@ null আমরা ইচ্ছা করে দেই।
 Interview এ খুব common প্রশ্ন।
 
 
-🔹 27-2: Truthy & Falsy
+🔹 27-2: Truthy & Falsy √
 
 🧠 Topic
 
