@@ -145,9 +145,10 @@ map ব্যবহার করে সব number double করে নতুন 
 📝 Exercise 16: Object destructuring √
 
 একটা object থেকে name এবং age আলাদা variable এ রাখো।
-
 🎯 লক্ষ্য: dot না লিখে data বের করা।
-📝 Exercise 17: Rename destructuring
+
+
+📝 Exercise 17: Rename destructuring √
 
 Object destructuring করে একটা property অন্য নামে rename করো।
 

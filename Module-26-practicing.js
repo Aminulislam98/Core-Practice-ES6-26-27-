@@ -133,6 +133,12 @@
 
 // ==========================================================
 // 📝 Exercise 16: Object destructuring
-let destructuring = { name: "aminul islam", age: 23, pro: "developer" };
-let { name: fullName } = destructuring;
-console.log("Name is : ", fullName);
+// let destructuring = { name: "aminul islam", age: 23, pro: "developer" };
+// let { name: fullName } = destructuring;
+// console.log("Name is : ", fullName);
+
+// ==========================================================
+// 📝 Exercise 17: Rename destructuring
+// let alias = { name: "aminur", age: 23, pro: "developer" };
+// let { name: fullName } = alias;
+// console.log(fullName);
