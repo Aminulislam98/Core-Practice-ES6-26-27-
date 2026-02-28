@@ -95,7 +95,16 @@
 
 // ==========================================================
 // 📝 Exercise 11: Copy array
-let arr = [2, 3, 4, 6, 6];
-let copyArr = [...arr, 9, 8, 7, 6];
-console.log(arr);
-console.log(copyArr);
+// let arr = [2, 3, 4, 6, 6];
+// let copyArr = [...arr, 9, 8, 7, 6];
+// console.log(arr);
+// console.log(copyArr);
+
+// ==========================================================
+// 📝 Exercise 12: Copy object
+// let obj = { name: "aminur", age: 23 };
+// let copyObj = { ...obj };
+// let extendedObj = { ...copyObj, profession: "Developer" };
+// console.log("main object", obj);
+// console.log("copy object", copyObj);
+// console.log("extended object", extendedObj);

@@ -104,11 +104,15 @@ map ব্যবহার করে সব number double করে নতুন 
 
 🎯 লক্ষ্য: array combine করা সহজভাবে।
 
-📝 Exercise 11: Copy array
+
+
+📝 Exercise 11: Copy array √
 
 একটা array copy করো এবং নতুন একটা value যোগ করো।
 
 🎯 লক্ষ্য: original array যেন change না হয় সেটা নিশ্চিত করা।
+
+
 
 📝 Exercise 12: Copy object
 
