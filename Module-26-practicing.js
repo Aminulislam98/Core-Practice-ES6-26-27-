@@ -173,3 +173,7 @@
 // let obj = { name: "aminur", age: 23, pro: "developer" };
 // delete obj.name;
 // console.log(obj);
+// let obj = { name: "aminur", age: 12, pro: "developer" };
+// Object.freeze(obj);
+// obj.address = "Sylhet";
+// console.log(obj.address);

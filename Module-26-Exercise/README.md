@@ -176,7 +176,7 @@ Object থেকে key + value pair বের করো।
 
 একটা property delete করো এবং object print করো।
 
-📝 Exercise 22: Freeze test
+📝 Exercise 22: Freeze test √
 
 Object.freeze ব্যবহার করে object freeze করো।
 তারপর নতুন property add করার চেষ্টা করো।
