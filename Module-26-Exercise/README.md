@@ -164,7 +164,7 @@ Object থেকে সব key বের করো।
 
 🎯 লক্ষ্য: Object.keys বোঝা।
 
-📝 Exercise 19: Values বের করা
+📝 Exercise 19: Values বের করা √
 
 Object থেকে সব value বের করো।
 

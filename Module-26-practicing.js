@@ -151,3 +151,9 @@
 // console.log("all keys: ", key);
 // let values = Object.values(objMethod);
 // console.log("all values: ", values);
+
+// ==========================================================
+// 📝 Exercise 19: Values বের করা
+let objMethod = { name: "aminur", age: 23, pro: "developer" };
+let values = Object.values(objMethod);
+console.log(values);
