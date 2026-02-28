@@ -206,6 +206,27 @@
 //     },
 //   },
 // };
-console.log(obj.address.phone.email);
+// console.log(obj.address.phone.email);
 // output:aminurrohman98@gamil.com
 // console.log(obj.profession.remote); //output:freelancer
+
+// ==========================================================
+// 📝 Exercise 25: Optional chaining
+// let obj = {
+//   name: "aminur",
+//   age: 23,
+//   profession: {
+//     job: "developer",
+//     remote: "freelancer",
+//   },
+//   address: {
+//     street: "89 stafford road",
+//     road: "wallington",
+//     city: "london",
+//     phone: {
+//       telephone: "07440302426",
+//       email: "aminurrohman98@gamil.com",
+//     },
+//   },
+// };
+// console.log(obj.profession?.admin);

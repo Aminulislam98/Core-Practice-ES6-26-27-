@@ -200,7 +200,8 @@ Deep value access করো।
 
 🎯 লক্ষ্য: nested access বোঝা।
 
-📝 Exercise 25: Optional chaining
+
+📝 Exercise 25: Optional chaining √
 
 Optional chaining ব্যবহার করে এমন property access করো যা হয়তো নেই।
 
