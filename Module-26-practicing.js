@@ -177,3 +177,12 @@
 // Object.freeze(obj);
 // obj.address = "Sylhet";
 // console.log(obj.address);
+
+// ==========================================================
+// 📝 Exercise 23: Seal test
+// let obj = { name: "aminur", age: 23 };
+// console.log(obj);
+// Object.seal(obj);
+// obj.pro = "developer";
+// obj.name = "Islam";
+// console.log(obj);

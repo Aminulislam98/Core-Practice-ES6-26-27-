@@ -183,7 +183,8 @@ Object.freeze ব্যবহার করে object freeze করো।
 
 🎯 লক্ষ্য: freeze করলে কি change হয়?
 
-📝 Exercise 23: Seal test
+
+📝 Exercise 23: Seal test √
 
 Object.seal ব্যবহার করে object seal করো।
 তারপর property modify ও add করার চেষ্টা করো।
