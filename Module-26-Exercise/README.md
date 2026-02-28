@@ -207,11 +207,13 @@ Optional chaining ব্যবহার করে এমন property access ক�
 
 🎯 লক্ষ্য: error ছাড়া undefined পাওয়া।
 
-📝 Exercise 26: Dot vs Bracket
+
+📝 Exercise 26: Dot vs Bracket √
 
 একই property dot notation ও bracket notation দিয়ে access করো।
 
 🎯 লক্ষ্য: bracket notation কখন দরকার হয় বোঝা।
+
 
 🔹 26-9: Looping
 
