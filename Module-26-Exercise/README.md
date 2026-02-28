@@ -136,7 +136,7 @@ map ব্যবহার করে সব number double করে নতুন 
 
 🎯 লক্ষ্য: index না লিখেও value বের করা।
 
-📝 Exercise 15: Rest operator
+📝 Exercise 15: Rest operator √
 
 একটা array থেকে প্রথম value আলাদা করো এবং বাকি সব value rest operator দিয়ে রাখো।
 

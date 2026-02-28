@@ -123,3 +123,10 @@
 // console.log("this is first index: ", firstFruit);
 // console.log("this is second index: ", secondFruit);
 // console.log("this is third index: ", thirdFruit);
+
+// ==========================================================
+// 📝 Exercise 15: Rest operator
+// let arr = [3, 4, 6, 7];
+// let [firstValue, ...rest] = arr;
+// console.log(firstValue);
+// console.log(rest);
