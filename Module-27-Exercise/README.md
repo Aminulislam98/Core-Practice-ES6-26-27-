@@ -2,7 +2,7 @@
  ======================== Module 27 Practice Guide ================
 
 
-🔹 27-0: Primitive vs Non-Primitive
+🔹 27-0: Primitive vs Non-Primitive √
 
 🧠 Topic (সংক্ষেপে)
 
