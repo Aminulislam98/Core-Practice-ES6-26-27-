@@ -170,6 +170,6 @@
 
 // ==========================================================
 // 📝 Exercise 21: Delete property
-let obj = { name: "aminur", age: 23, pro: "developer" };
-delete obj.name;
-console.log(obj);
+// let obj = { name: "aminur", age: 23, pro: "developer" };
+// delete obj.name;
+// console.log(obj);
